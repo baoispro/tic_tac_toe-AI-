@@ -9,4 +9,4 @@
 
 
 To play game again you hit y and enter else you can hit n and enter.
-Have a nice day!!!
+Have a nice day!!! :heart_eyes:
